@@ -22,7 +22,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 4. Assist Security Officer as needed.
 
 The current Catalyze Privacy Officer is Travis Good ([travis@catalyze.io](mailto:travis@catalyze.io)).
-The current Phil Privacy Officer is Andrew Wyatt ([a@usephil.com](mailto:a@usephil.com))
+The current Phil Privacy Officer is Andrew Wyatt ([a@usephil.com](mailto:a@usephil.com)).
 
 ## Workforce Training Responsibilities
 
@@ -93,7 +93,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Phil or Catalyze.
 	3. Mitigates, to the extent practicable, any harmful effect known to Phil or Catalyze of a use or disclosure of ePHI in violation of Phil or Catalyze’s policies and procedures, even if effect is the result of actions of Catalyze business associates, customers, and/or partners. 
 
-12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Catalyze Breach Policy](./#breach).
+12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Catalyze Breach Policy](https://policy.catalyze.io/#breach-policy).
 
 13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains.  Examples of security updates and reminders include, but are not limited to:
 	1. Latest malicious software or virus alerts;
