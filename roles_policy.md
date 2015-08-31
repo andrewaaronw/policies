@@ -22,6 +22,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 4. Assist Security Officer as needed.
 
 The current Catalyze Privacy Officer is Travis Good ([travis@catalyze.io](mailto:travis@catalyze.io)).
+The current Phil Privacy Officer is Andrew Wyatt ([a@usephil.com](mailto:a@usephil.com))
 
 ## Workforce Training Responsibilities
 
@@ -63,6 +64,7 @@ The current Catalyze Privacy Officer is Travis Good ([travis@catalyze.io](mailto
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Catalyze security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
 The current Catalyze Security Officer is Benjamin Uphoff ([ben@catalyze.io](mailto:ben@catalyze.io)).
+The current Phil Security Officer is Andrew Wyatt ([a@usephil.com](mailto:a@usephil.com)).
 
 ## Organizational Responsibilities
 
@@ -88,8 +90,8 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 11. Maintains a program promoting workforce members to report non-compliance with policies and procedures.
 	1. Promptly, properly, and consistently investigates and addresses reported violations and takes steps to prevent recurrence.
-	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Catalyze.
-	3. Mitigates, to the extent practicable, any harmful effect known to Catalyze of a use or disclosure of ePHI in violation of Catalyze’s policies and procedures, even if effect is the result of actions of Catalyze business associates, customers, and/or partners. 
+	2. Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Phil or Catalyze.
+	3. Mitigates, to the extent practicable, any harmful effect known to Phil or Catalyze of a use or disclosure of ePHI in violation of Phil or Catalyze’s policies and procedures, even if effect is the result of actions of Catalyze business associates, customers, and/or partners. 
 
 12. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Catalyze Breach Policy](./#breach).
 
@@ -109,7 +111,7 @@ The Security Officer, in collaboration with the Privacy Officer, is responsible 
 
 ## Supervision of Workforce Responsibilities
 
-Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Catalyze’s systems, applications, servers, workstations, etc. that contain ePHI.
+Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Phil or Catalyze’s systems, applications, servers, workstations, etc. that contain ePHI.
 
 1. Monitor workstations and applications for unauthorized use, tampering, and theft and report non-compliance according to the Security Incident Response policy.
 
@@ -119,21 +121,21 @@ Although the Security Officer is responsible for implementing and overseeing all
 
 ## Sanctions of Workforce Responsibilities
 
-All workforce members report non-compliance of Catalyze’s policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
+All workforce members report non-compliance of Phil or Catalyze’s policies and procedures to the Security Officer or other individual as assigned by the Security Officer.  Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
 
-1. The Security Officer promptly facilitates a thorough investigation of all reported violations of Catalyze’s security policies and procedures.  The Security Officer may request the assistance from others.
+1. The Security Officer promptly facilitates a thorough investigation of all reported violations of Phil or Catalyze’s security policies and procedures.  The Security Officer may request the assistance from others.
 	1. Complete an audit trail/log to identify and verify the violation and sequence of events.
 	2. Interview any individual that may be aware of or involved in the incident.
 	3. All individuals are required to cooperate with the investigation process and provide factual information to those conducting the investigation.
-	4. Provide individuals suspected of non-compliance of the Security rule and/or Catalyze’s policies and procedures the opportunity to explain their actions.
+	4. Provide individuals suspected of non-compliance of the Security rule and/or Phil or Catalyze’s policies and procedures the opportunity to explain their actions.
 	5. The investigators thoroughly documents the investigation as the investigation occurs.
 
 2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment.  Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges.  Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations. 
-  8. A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Catalyze.
+  8. A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from Phil or Catalyze.
 
 3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
 
-4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Catalyze workforce members are encouraged to come forward with information about insider threats, and can do so anonymously. 
+4. In the case of an insider threat, the Security Officer and Privacy Officer are to setup a team to investigate and mitigate the risk of insider malicious activity. Catalyze and Phil workforce members are encouraged to come forward with information about insider threats, and can do so anonymously. 
 
 5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation. 
 
