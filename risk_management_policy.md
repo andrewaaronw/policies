@@ -1,7 +1,7 @@
 
 # Risk Management Policy
 
-This policy establishes the scope, objectives, and procedures of Catalyze's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission. 
+This policy establishes the scope, objectives, and procedures of Catalyze's information security risk management process. Phil relys on Catalyze for Risk Management and thus inherits this control. The risk management process is intended to support and protect the organization and its ability to fulfill its mission. 
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
