@@ -52,13 +52,13 @@ In the case of a breach, Phil and Catalyze shall notify all affected Customers. 
 
 ## Catalyze PaaS Customer Responsibilities
 
-1. The Catalyze Customer that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI shall, without unreasonable delay and in no case later than 60 calendar days after discovery of a breach, notify Catalyze of such breach. The Customer shall provide Catalyze with the following information:
+1. The Phil or Catalyze Customer that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI shall, without unreasonable delay and in no case later than 60 calendar days after discovery of a breach, notify Phil or Catalyze of such breach. The Customer shall provide Phil or Catalyze with the following information:
 	* A description of what happened, including the date of the breach, the date of the discovery of the breach, and the number of records and Customers affected, if known.
 	* A description of the types of unsecured protected health information that were involved in the breach (such as full name, Social Security number, date of birth, home address, account number, etc.), if known.
 	* A description of the action taken with regard to notification of patients regarding the breach.
 	* Resolution steps taken to mitigate the breach and prevent future occurrences.
-4. Notice to Media: Catalyze Customers are responsible for providing notice to prominent media outlets at the Customer's discretion.
-5. Notice to Secretary of HHS: Catalyze Customers are responsible for providing notice to the Secretary of HHS at the Customer's discretion.
+4. Notice to Media: Phil and Catalyze Customers are responsible for providing notice to prominent media outlets at the Customer's discretion.
+5. Notice to Secretary of HHS: Phil and Catalyze Customers are responsible for providing notice to the Secretary of HHS at the Customer's discretion.
 
 ## Sample Letter to Customers in Case of  Breach
 
@@ -94,3 +94,10 @@ Travis Good, MD
 Co-founder - Catalyze, Inc
 travis@catalyze.io
 303-351-2640
+
+or
+
+Andrew Wyatt
+COO - Phil
+a@usephil.com
+415-680-5059
