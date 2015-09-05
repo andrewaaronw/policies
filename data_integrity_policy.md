@@ -1,6 +1,6 @@
 # Data Integrity Policy
 
-Catalyze takes data integrity very seriously. As stewards and partners of Catalyze Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Catalyze mission of data protection.
+Catalyze takes data integrity very seriously. As stewards and partners of Catalyze Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. Phil relys on Catalyze for Data Integrity and thus inherits this control. The following policies drive many of our procedures and technical settings in support of the Catalyze mission of data protection.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
